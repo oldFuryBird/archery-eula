@@ -1,4 +1,4 @@
-## Laravel Idea EULA
+## Archery Plugin EULA
 
 "Developer" means oldFuryBird
 
